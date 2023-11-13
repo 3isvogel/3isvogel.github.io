@@ -1,2 +1,4 @@
 # 3isvogel.github.io
 Simple link aggregator
+
+Site is located at [3isvogelgithub.io](https://3isvogel.github.io)
