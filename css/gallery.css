@@ -1,0 +1,33 @@
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 10px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    object-fit: cover;
+    aspect-ratio: 1 / 1;
+}
+
+.subtitle {
+    color: white;
+    text-align: center;
+}
+
+.subtitle .gear {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding-top: 1em;
+    max-width: 600px;
+}
+
+.image-gontainer {
+    text-align: center;
+}
