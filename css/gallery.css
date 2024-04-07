@@ -20,11 +20,18 @@
     text-align: center;
 }
 
+hr {
+    color: white;
+    background-color: white;
+    margin-bottom: 1em;
+}
+
 .subtitle .gear {
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
     padding-top: 1em;
+    padding-bottom: 1em;
     max-width: 600px;
 }
 
