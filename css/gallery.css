@@ -35,6 +35,14 @@ hr {
     max-width: 600px;
 }
 
-.image-gontainer {
+.image-gontainer, .bad-boi {
     text-align: center;
+}
+
+#bad-boi img {
+    width: 30%;
+    max-width: 400px;
+    min-width: 200px;
+    border-radius: 5px;
+    margin: 1em;
 }
